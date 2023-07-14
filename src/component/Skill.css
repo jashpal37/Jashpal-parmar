@@ -1,0 +1,25 @@
+.skill-heading {
+  text-align: center;
+  padding: 4rem 0 0 0;
+  font-weight: 400;
+}
+
+.skill-bar {
+  border-bottom: 1px solid #eee;
+  width: 20vh;
+  margin: 2rem auto;
+  display: block;
+}
+
+.coding-heading {
+  text-align: center;
+  padding: 4rem 0 0 0;
+  font-weight: 400;
+}
+
+.coding-bar {
+  border-bottom: 1px solid #eee;
+  width: 30vh;
+  margin: 2rem auto;
+  display: block;
+}
